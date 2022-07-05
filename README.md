@@ -5,7 +5,7 @@ Handler de Comandos y Eventos en Discord.js
 
 Tras descargarlo, en el archivo `config.json` tendrás que poner la `Id del Bot` y el `Token`
 
-Tendras que instalar lo siguiente:
+Tendrás que instalar lo siguiente:
 ```
 npm init
 ```
